@@ -108,24 +108,24 @@ Link: [https://learn.microsoft.com/en-us/training/modules/run-quality-tests-buil
 
 Learn the core concepts of Docker and how it can make building apps faster, easier, and more secure.
 
-[https://training.play-with-docker.com/dev-stage1/](Stage 1: The Basics)
+[https://training.play-with-docker.com/dev-stage1/](https://training.play-with-docker.com/dev-stage1/)
 
 This stage will teach you the basics. Topics include:
     Get you familiar with the core concepts of Docker
     Show you how to build and deploy multi-service applications
 
-[https://training.play-with-docker.com/dev-stage2/](Stage 2: Digging Deeper)
+[https://training.play-with-docker.com/dev-stage2/](https://training.play-with-docker.com/dev-stage2/)
 
 This stage show you how to incorporate Docker into your entire developer workflow. Topics include:
     Use Docker with various IDEs
     Get started with Windows containers
     Preparing your workflow
 
-[https://training.play-with-docker.com/dev-stage3/](Stage 3: Moving to Staging)
+[https://training.play-with-docker.com/dev-stage3/](https://training.play-with-docker.com/dev-stage3/)
 
 This stage will include advanced topics designed to get you ready for production environments. Topics include:
     Deploy an application to a staging environment
     Manage your staging environment with Docker Swarm Mode
     Learn how to build a secure application
 
-[https://training.play-with-docker.com/alacart/](Full list of individual labs)
+[https://training.play-with-docker.com/alacart/](https://training.play-with-docker.com/alacart/)
