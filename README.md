@@ -104,7 +104,7 @@ Set up automated testing in your pipeline to improve code quality.
 
 Link: [https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/](https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/)
 
-Getting Started Walk-through for Developers
+## Getting Started Walk-through for Developers (Docker)
 
 Learn the core concepts of Docker and how it can make building apps faster, easier, and more secure.
 
