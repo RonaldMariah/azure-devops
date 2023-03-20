@@ -128,4 +128,5 @@ This stage will include advanced topics designed to get you ready for production
     Manage your staging environment with Docker Swarm Mode
     Learn how to build a secure application
 
-[https://training.play-with-docker.com/alacart/](https://training.play-with-docker.com/alacart/)
+
+Full list of individual labs --> [https://training.play-with-docker.com/alacart/](https://training.play-with-docker.com/alacart/)
